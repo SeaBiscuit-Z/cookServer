@@ -1,0 +1,7 @@
+E:\mvc\CookApi\DBUtility\bin\Debug\Cook.DBUtility.dll
+E:\mvc\CookApi\DBUtility\bin\Debug\Cook.DBUtility.pdb
+E:\mvc\CookApi\DBUtility\bin\Debug\MySql.Data.dll
+E:\mvc\CookApi\DBUtility\bin\Debug\System.Data.SQLite.DLL
+E:\mvc\CookApi\DBUtility\obj\Debug\Cook.DBUtility.dll
+E:\mvc\CookApi\DBUtility\obj\Debug\Cook.DBUtility.pdb
+E:\mvc\cookapi\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache

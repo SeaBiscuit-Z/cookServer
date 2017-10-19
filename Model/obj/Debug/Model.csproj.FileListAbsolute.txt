@@ -1,0 +1,5 @@
+E:\mvc\CookApi\Model\bin\Debug\Cook.Model.dll
+E:\mvc\CookApi\Model\bin\Debug\Cook.Model.pdb
+E:\mvc\CookApi\Model\obj\Debug\Cook.Model.dll
+E:\mvc\CookApi\Model\obj\Debug\Cook.Model.pdb
+E:\mvc\cookapi\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache

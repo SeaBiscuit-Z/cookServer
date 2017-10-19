@@ -1,0 +1,6 @@
+E:\mvc\cookapi\Views\bin\Release\Views.dll
+E:\mvc\cookapi\Views\bin\Release\Views.pdb
+E:\mvc\cookapi\Views\bin\Release\Cook.Model.dll
+E:\mvc\cookapi\Views\obj\Release\Views.csprojResolveAssemblyReference.cache
+E:\mvc\cookapi\Views\obj\Release\Views.dll
+E:\mvc\cookapi\Views\obj\Release\Views.pdb

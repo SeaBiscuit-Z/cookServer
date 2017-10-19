@@ -1,0 +1,11 @@
+E:\mvc\cookapi\BLL\bin\Release\Cook.BLL.dll
+E:\mvc\cookapi\BLL\bin\Release\Cook.DAL.dll
+E:\mvc\cookapi\BLL\bin\Release\Cook.Model.dll
+E:\mvc\cookapi\BLL\bin\Release\Maticsoft.Common.dll
+E:\mvc\cookapi\BLL\bin\Release\Views.dll
+E:\mvc\cookapi\BLL\bin\Release\Cook.DBUtility.dll
+E:\mvc\cookapi\BLL\bin\Release\System.Data.SQLite.dll
+E:\mvc\cookapi\BLL\bin\Release\MySql.Data.dll
+E:\mvc\cookapi\BLL\bin\Release\Views.pdb
+E:\mvc\cookapi\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+E:\mvc\cookapi\BLL\obj\Release\Cook.BLL.dll

@@ -1,0 +1,14 @@
+E:\mvc\CookApi\DAL\bin\Debug\Cook.DAL.dll
+E:\mvc\CookApi\DAL\bin\Debug\Cook.DAL.pdb
+E:\mvc\CookApi\DAL\bin\Debug\Cook.DBUtility.dll
+E:\mvc\CookApi\DAL\bin\Debug\Cook.Model.dll
+E:\mvc\CookApi\DAL\bin\Debug\Maticsoft.Common.dll
+E:\mvc\CookApi\DAL\bin\Debug\MySql.Data.dll
+E:\mvc\CookApi\DAL\bin\Debug\System.Data.SQLite.dll
+E:\mvc\CookApi\DAL\bin\Debug\Cook.DBUtility.pdb
+E:\mvc\CookApi\DAL\bin\Debug\Cook.Model.pdb
+E:\mvc\CookApi\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\mvc\CookApi\DAL\obj\Debug\Cook.DAL.dll
+E:\mvc\CookApi\DAL\obj\Debug\Cook.DAL.pdb
+E:\mvc\cookapi\DAL\bin\Debug\Views.dll
+E:\mvc\cookapi\DAL\bin\Debug\Views.pdb

@@ -1,0 +1,5 @@
+E:\mvc\cookapi\DBUtility\bin\Release\Cook.DBUtility.dll
+E:\mvc\cookapi\DBUtility\bin\Release\MySql.Data.dll
+E:\mvc\cookapi\DBUtility\bin\Release\System.Data.SQLite.DLL
+E:\mvc\cookapi\DBUtility\obj\Release\DBUtility.csprojResolveAssemblyReference.cache
+E:\mvc\cookapi\DBUtility\obj\Release\Cook.DBUtility.dll
