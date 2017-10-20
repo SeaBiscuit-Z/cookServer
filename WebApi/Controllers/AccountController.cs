@@ -14,7 +14,6 @@ using WebApi.Models;
 namespace WebApi.Controllers
 {
     [RoutePrefix("api")]
-    [EnableCors("http://localhost:8080", "*", "*")]
     public class AccountController : ApiController
     {
         /// <summary>
