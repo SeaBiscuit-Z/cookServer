@@ -10,7 +10,6 @@ using System.Web.Http.Cors;
 namespace WebApi.Controllers
 {
     [RoutePrefix("api")]
-    [EnableCors("http://localhost:8080", "*", "*")]
     public class henchmanController : ApiController
     {
         [HttpGet]
