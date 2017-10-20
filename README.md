@@ -6,6 +6,15 @@
 
 三层 （D-B-M） + asp.net mvc WebApi + cors 跨域 + sqlserver
 
+# 项目运行
+
+```
+WebApi / 
+
+
+```
+
+
 # 项目文件布局
 
 ```
@@ -22,12 +31,12 @@
 │   ├── Controllers                     // 返回数据的控制器
 │   ├── Models                          // token 数据结构类
 │   ├── Properties                      // 特性集
-│   └── common                          // 公共方法类
+│   ├── common                          // 公共方法类
 │   ├── AuthFilterOutside.cs            // token 验证
 │   ├── CrossSiteAttribute.cs           // 跨域设置
 │   ├── Global.asax                     // 全局配置文件
 │   ├── img.ashx                        // 生成验证码
-│   ├── Web.config                      // 站点配置文件
+│   └── Web.config                      // 站点配置文件
 ├── packages                            // 需要引用的系统类库
 ├── CookApi.sln
 └── CookApi.suo
