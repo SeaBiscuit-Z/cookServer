@@ -1,6 +1,6 @@
 # 说明
 
-此项目是通过Web API构建的http服务 , 为cook配套后端代码，[前端代码在这](https://github.com/SeaBiscuit-Z/cook), 
+此项目是通过Web API构建的http服务 , 为cook配套后端代码，[前端代码在这](https://github.com/SeaBiscuit-Z/cook), 线上地址[在这](http://47.94.224.249/)
 
 # 技术栈
 
