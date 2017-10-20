@@ -5,3 +5,10 @@ E:\mvc\CookApi\Views\obj\Debug\Views.pdb
 E:\mvc\cookapi\Views\bin\Debug\Cook.Model.dll
 E:\mvc\cookapi\Views\bin\Debug\Cook.Model.pdb
 E:\mvc\cookapi\Views\obj\Debug\Views.csprojResolveAssemblyReference.cache
+E:\webapi\cookServer\Views\bin\Debug\Views.dll
+E:\webapi\cookServer\Views\bin\Debug\Views.pdb
+E:\webapi\cookServer\Views\bin\Debug\Cook.Model.dll
+E:\webapi\cookServer\Views\bin\Debug\Cook.Model.pdb
+E:\webapi\cookServer\Views\obj\Debug\Views.csprojResolveAssemblyReference.cache
+E:\webapi\cookServer\Views\obj\Debug\Views.dll
+E:\webapi\cookServer\Views\obj\Debug\Views.pdb

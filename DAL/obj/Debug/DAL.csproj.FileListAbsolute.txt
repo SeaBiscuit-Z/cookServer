@@ -12,3 +12,17 @@ E:\mvc\CookApi\DAL\obj\Debug\Cook.DAL.dll
 E:\mvc\CookApi\DAL\obj\Debug\Cook.DAL.pdb
 E:\mvc\cookapi\DAL\bin\Debug\Views.dll
 E:\mvc\cookapi\DAL\bin\Debug\Views.pdb
+E:\webapi\cookServer\DAL\bin\Debug\Cook.DAL.dll
+E:\webapi\cookServer\DAL\bin\Debug\Cook.DAL.pdb
+E:\webapi\cookServer\DAL\bin\Debug\Cook.DBUtility.dll
+E:\webapi\cookServer\DAL\bin\Debug\Cook.Model.dll
+E:\webapi\cookServer\DAL\bin\Debug\Maticsoft.Common.dll
+E:\webapi\cookServer\DAL\bin\Debug\MySql.Data.dll
+E:\webapi\cookServer\DAL\bin\Debug\Views.dll
+E:\webapi\cookServer\DAL\bin\Debug\System.Data.SQLite.dll
+E:\webapi\cookServer\DAL\bin\Debug\Views.pdb
+E:\webapi\cookServer\DAL\bin\Debug\Cook.DBUtility.pdb
+E:\webapi\cookServer\DAL\bin\Debug\Cook.Model.pdb
+E:\webapi\cookServer\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\webapi\cookServer\DAL\obj\Debug\Cook.DAL.dll
+E:\webapi\cookServer\DAL\obj\Debug\Cook.DAL.pdb
