@@ -8,12 +8,12 @@
 
 # 项目运行
 
-1.  WebApi / Web.config   第15行 ， 设置你自己的数据库连接字符串
+##### 1.  WebApi / Web.config   第15行 ， 设置你自己的数据库连接字符串
 ```
 <add key="ConnectionString" value="server=.;database=cooking;uid=sa;pwd=123;"/> //这是我的，修改value里的值即可
 ```
 
-1.  WebApi / Web.config   第82行 ， 设置自己的前端路径
+##### 2.  WebApi / Web.config   第82行 ， 设置自己的前端路径
 ```
 <add name="Access-Control-Allow-Origin" value="http://localhost:8080" /> // 这是我的，修改value里的值即可
 ```
